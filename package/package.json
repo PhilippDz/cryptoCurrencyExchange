@@ -1,0 +1,1 @@
+{"name":"uniswapclone","version":"0.0.1","main":"uniswapclone.js","dependencies":{"web3":"*","solc":"*","@cranq/runtime":"*"},"scripts":{"start":"node uniswapclone.js"}}
